@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "TPMODUL3 _YASMIN",
         "MODUL2_YASMIN",
-        "TPMODUL3 _YASMIN"
+        "MODUL3_YASMIN"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
